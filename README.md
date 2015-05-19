@@ -1,2 +1,2 @@
 # Barclays
-Retrives public research data of Barclays website
+Retrieves public research data from Barclays website
